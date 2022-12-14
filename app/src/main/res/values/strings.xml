@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Task Management</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_todolist">Daftar Tugas</string>
+    <string name="menu_profile">Profil</string>
+    <string name="menu_exit">Keluar</string>
+
+
+    <string name="loginErrorMessage">Check the username and password. Please!</string>
+    <string name="todoListPageTitle">Halo, %1s</string>
+    <string name="todoListPageSubTitle">Selamat datang</string>
+
+    <string name="loginTitle">Masuk</string>
+    <string name="loginUserTitle">Nama Pengguna</string>
+    <string name="loginPassTitle">Kata Sandi</string>
+    <string name="loginSignInTitle">MASUK</string>
+    <string name="loginNoAccountTitle">Anda belum memiliki akun? </string>
+    <string name="loginSignUpTitle">Daftar</string>
+    <string name="loginUserNameError">Mohon isi nama pengguna Anda!</string>
+    <string name="loginPasswordError">Mohon isi kata sandi Anda!</string>
+    <string name="signUpSuccessMessage">Pendaftaran Berhasil!</string>
+    <string name="signUpErrorMessage">Registration is available. Please check E-Mail or Username!</string>
+
+    <string name="todoListSearch">Cari daftar tugas…</string>
+    <string name="todoListItemSearch">Cari item tugas…</string>
+
+    <string name="todoListPriorityLow">Tidak Penting Tidak Mendesak</string>
+    <string name="todoListPriorityNormal">Tidak Penting Mendesak</string>
+    <string name="todoListPriorityNormal_High">Penting Tidak Mendesak</string>
+    <string name="todoListPriorityHigh">Penting Mendesak</string>
+
+    <string name="signUpNameHint">Nama depan &amp; belakang</string>
+    <string name="signUpUserNameHint">Nama Pengguna</string>
+    <string name="signUpPasswordHint">Kata Sandi</string>
+    <string name="signUpEmailHint">Alamat e-mail</string>
+    <string name="signUpBtnSubmit">DAFTAR</string>
+
+
+    <string name="shortcutAddTodoListCode">addtodolist</string>
+
+    <string name="signUpNameError">Mohon masukkan nama depan &amp; belakang!</string>
+    <string name="signUpUserNameError">Mohon masukkan nama pengguna Anda!</string>
+    <string name="signUpPasswordError">Mohon masukkan kata sandi Anda!</string>
+    <string name="signUpEmailError">Mohon masukkan alamat e-mail Anda!</string>
+
+    <string name="todolistAddListNameError">Mohon isi nama daftar tugas!</string>
+
+    <string name="todolistAddListItemNameError">Mohon isi nama item tugas!</string>
+    <string name="todolistAddListItemDescError">Mohon isi deskripsi item tugas!</string>
+
+
+    <string name="todoListItemDesc"><b>Deskripsi:</b> %1s</string>
+    <string name="todoListItemCreateDate"><b>Tanggal pembuatan:</b> %1s</string>
+    <string name="todoListItemRemainingDate">%1s hari lagi.</string>
+    <string name="todoListItemStatusContinue">Berlangsung</string>
+    <string name="todoListItemStatusCompleted">Selesai</string>
+    <string name="todoListItemStatusExpired">Kadaluarsa</string>
+    <string name="todolistTitle">To Do List</string>
+    <string name="todolistItemTitle">%1s Items</string>
+
+
+    <string name="todoListMoreUpdate">Edit/Perbarui</string>
+    <string name="todoListMoreDelete">Hapus</string>
+    <string name="todoListMoreShare">Bagikan</string>
+
+    <string name="todolistShareBottomSheetPreview">Tinjau PDF</string>
+    <string name="todolistShareBottomSheetEmail">Kirim E-mail</string>
+
+    <string name="todolistPdfExportMailSubject">About ToDoList</string>
+    <string name="todolistPdfExportMailInfo">Mengirim e-mail…</string>
+    <string name="YES">Ya</string>
+    <string name="CANCEL">Batalkan</string>
+
+
+    <string name="todoListItemDeleteTask">Hapus Item tugas</string>
+    <string name="todoListItemDeleteTaskMessage">Anda ingin menghapus item tugas ini?</string>
+    <string name="todoListItemEndTask">Selesaikan Item tugas</string>
+    <string name="todoListItemEndTaskMessage">Anda yakin ingin menyelesaikan item tugas ini?</string>
+    <string name="todoListItemDelete">Hapus</string>
+    <string name="todoListItemUpdate">Edit/Perbarui</string>
+    <string name="todoListItemComplete">Selesai</string>
+    <string name="todoListItemDialogHeaderNewItem">Buat Item Tugas</string>
+    <string name="todoListItemDialogHeaderUpdateItem">Perbarui Item Tugas</string>
+    <string name="todoListItemDialogSubmitNew">Buat</string>
+    <string name="todoListItemDialogSubmitUpdate">Perbarui</string>
+    <string name="todoListItemDialogClose">Tutup</string>
+    <string name="todoListItemDialogName">Nama Item Tugas</string>
+    <string name="todoListItemDialogDeadline"> Tenggat Item Tugas</string>
+    <string name="todoListItemDialogDescription">Deskripsi Item Tugas</string>
+    <string name="todoListDialogHeaderCreate">Buat Daftar Tugas</string>
+    <string name="todoListDialogHeaderUpdate">Perbarui Daftar Tugas</string>
+    <string name="todoListDialogName">Nama Daftar Tugas</string>
+    <string name="todoListDialogPriority">Prioritas Daftar Tugas</string>
+    <string name="todoListEmptyMessage">Kosongkan Daftar Tugas</string>
+    <string name="todoListItemsEmptyMessage">Kosongkan Item Tugas</string>
+
+
+    <string name="todoListItemDeleteMessage">Item tugas telah dihapus.</string>
+    <string name="todoListItemStatusMessage">Item tugas selesai.</string>
+    <string name="todoListItemUpdateMessage">item tugas telah diperbarui.</string>
+    <string name="todoListItemCreateMessage">item tugas telah dibuat.</string>
+
+    <string name="todoListDeleteMessage">Daftar tugas telah dihapus.</string>
+    <string name="todoListStatusMessage">Daftar tugas selesai.</string>
+    <string name="todoListUpdateMessage">Daftar tugas telah diperbarui.</string>
+    <string name="todoListCreateMessage">Daftar tugas telah dibuat.</string>
+    <string name="todoListPriority">Prioritas</string>
+    <string name="todoListFilterKeyword">Ketik kata kunci</string>
+    <string name="todoListFilterStatus">Status</string>
+    <string name="todoListFilterCompleted">Selesai</string>
+    <string name="todoListFilterContinued">Berlangsung</string>
+    <string name="todoListFilterExpired">Kadaluarsa</string>
+
+    <string name="pdfStatusCompleted">Selesai</string>
+    <string name="pdfStatusContinued">Berlangsung</string>
+    <string name="pdfColumnFirst">No.</string>
+    <string name="pdfColumnSecond">Name</string>
+    <string name="pdfColumnThird">Deskripsi</string>
+    <string name="pdfColumnFourth">Tenggat</string>
+    <string name="pdfColumnFifth">Tanggal Pembuatan</string>
+    <string name="pdfColumnSixth">Status</string>
+
+    <string name="todoListShareCreatePdfMessage">Pembuat PDF: %1s</string>
+    <string name="todoListShareSendMailMessage">Mengirim e-mail…</string>
+    <string name="search">Cari</string>
+    <string name="pdfStatusExpired">Kadaluarsa</string>
+    <string name="todoListContinuedCount">%1s Tugas</string>
+
+
+</resources>

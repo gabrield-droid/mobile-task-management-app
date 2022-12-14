@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="listPriority">
+        <item>@string/todoListPriorityLow</item>
+        <item>@string/todoListPriorityNormal</item>
+        <item>@string/todoListPriorityNormal_High</item>
+        <item>@string/todoListPriorityHigh</item>
+    </string-array>
+
+</resources>
